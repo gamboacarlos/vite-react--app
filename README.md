@@ -1,4 +1,4 @@
-# vite-react--app
+# vite-react-app
 Vite React App boilerplate with Typescript, Jest and React Testing Library
 
 INSTRUCTIONS
