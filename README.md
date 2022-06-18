@@ -1,7 +1,7 @@
 # vite-react-app
 Vite React App boilerplate with Typescript, Jest and React Testing Library
 
-INSTRUCTIONS
+INSTRUCTIONS:
 1. clone.
 2. yarn install.
 3. yarn dev.
